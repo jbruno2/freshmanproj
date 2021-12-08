@@ -1,0 +1,15 @@
+1.0                                          ! A (ext Ca)
+2.0                                          ! A1 (multiplier for reclosure)
+-20.0                                        ! Vref
+0.0                                          ! Vamp
+5.d-4                                        ! taus
+1000.d-6                                     ! kgs0
+0.5                                            ! dkgs
+0.31d-6                                      ! cmax
+420.d3                                        !smax
+1.0                                          ! noise_bundle
+1.0                                          ! noise_motor
+4.d-6                                        ! dt
+2.d0                                         ! tmax
+'x-t-V-20-det-dkgs-5.dat'
+
